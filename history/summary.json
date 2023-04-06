@@ -4,19 +4,19 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "gitea",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1066,
-    "timeDay": 1755,
-    "timeWeek": 1066,
-    "timeMonth": 1066,
-    "timeYear": 1066,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1125,
+    "timeDay": 1647,
+    "timeWeek": 1125,
+    "timeMonth": 1125,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2023-04-06": 0
+      "2023-04-06": 10
     }
   },
   {
