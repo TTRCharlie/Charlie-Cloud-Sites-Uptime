@@ -14,6 +14,10 @@ sites:
     url: https://paste.charlie-cloud.hu
   - name: Web Panel
     url: $WEBHOST_PANEL
+  - name: SMTP
+    check: "tcp-ping"
+    url: $SMTP
+    port: 587
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie
 status-website:
