@@ -4,10 +4,10 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 964,
@@ -15,7 +15,9 @@
     "timeWeek": 851,
     "timeMonth": 964,
     "timeYear": 964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-23": 1
+    }
   },
   {
     "name": "Cloud Storage",
@@ -40,18 +42,20 @@
     "url": "https://mmst-tracker.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 516,
-    "timeWeek": 632,
-    "timeMonth": 703,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 755,
+    "timeDay": 1398,
+    "timeWeek": 815,
+    "timeMonth": 755,
+    "timeYear": 755,
+    "dailyMinutesDown": {
+      "2023-04-23": 1
+    }
   },
   {
     "name": "Paste",
