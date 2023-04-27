@@ -22,19 +22,19 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 648,
-    "timeWeek": 727,
-    "timeMonth": 897,
-    "timeYear": 897,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 973,
+    "timeDay": 1432,
+    "timeWeek": 1033,
+    "timeMonth": 973,
+    "timeYear": 973,
     "dailyMinutesDown": {
-      "2023-04-27": 0
+      "2023-04-27": 4
     }
   },
   {
