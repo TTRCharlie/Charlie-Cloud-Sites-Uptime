@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
-    "timeDay": 698,
-    "timeWeek": 976,
-    "timeMonth": 967,
-    "timeYear": 967,
+    "time": 963,
+    "timeDay": 788,
+    "timeWeek": 890,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 973,
-    "timeDay": 1432,
-    "timeWeek": 1033,
-    "timeMonth": 973,
-    "timeYear": 973,
-    "dailyMinutesDown": {
-      "2023-04-27": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 968,
+    "timeDay": 1665,
+    "timeWeek": 1015,
+    "timeMonth": 968,
+    "timeYear": 968,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minecraft server player tracker",
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 744,
-    "timeDay": 616,
-    "timeWeek": 829,
+    "timeDay": 731,
+    "timeWeek": 817,
     "timeMonth": 744,
     "timeYear": 744,
     "dailyMinutesDown": {}
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 816,
-    "timeDay": 588,
-    "timeWeek": 766,
-    "timeMonth": 816,
-    "timeYear": 816,
+    "time": 813,
+    "timeDay": 723,
+    "timeWeek": 696,
+    "timeMonth": 813,
+    "timeYear": 813,
     "dailyMinutesDown": {
       "2023-04-09": 16
     }
@@ -86,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 616,
-    "timeWeek": 632,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "time": 658,
+    "timeDay": 699,
+    "timeWeek": 634,
+    "timeMonth": 658,
+    "timeYear": 658,
     "dailyMinutesDown": {}
   }
 ]
