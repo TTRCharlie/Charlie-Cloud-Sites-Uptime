@@ -24,9 +24,9 @@ status-website:
   faviconSvg: https://charlie-cloud.s3.eu-central-1.amazonaws.com/favicon.svg
   # baseUrl: /your-repo-name
   logoUrl: https://charlie-cloud.s3.eu-central-1.amazonaws.com/73458877_567488514057458_2491980556745572352_n.jpg
-  name: Charlie Cloud Sites Uptime Status
-  introTitle: "Charlie Cloud Status"
-  introMessage: "This is the Charlie Cloud Site uptime status page"
+  name: Charlie Cloud Sites Uptime
+  introTitle: "Charlie Cloud Sites Uptime"
+  introMessage: "This is the Charlie Cloud Sites Uptime status page"
   navbar:
     - title: Source
       href: https://github.com/TTRCharlie/Charlie-Cloud-Status.git
