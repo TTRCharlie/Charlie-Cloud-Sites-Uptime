@@ -6,8 +6,6 @@ user-agent: TTRCharlie-site-status
 sites:
   - name: Gitea
     url: https://git.charlie-cloud.hu
-  - name: Cloud Storage
-    url: $CLOUD_STORAGE
   - name: Minecraft server player tracker 
     url: https://mmst-tracker.charlie-cloud.hu
   - name: Paste
