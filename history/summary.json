@@ -10,32 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 641,
-    "timeWeek": 816,
-    "timeMonth": 880,
-    "timeYear": 929,
+    "time": 934,
+    "timeDay": 934,
+    "timeWeek": 868,
+    "timeMonth": 891,
+    "timeYear": 934,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Cloud Storage",
-    "url": "$CLOUD_STORAGE",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "cloud-storage",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 858,
-    "timeDay": 516,
-    "timeWeek": 594,
-    "timeMonth": 804,
-    "timeYear": 858,
-    "dailyMinutesDown": {
-      "2023-05-26": 7
-    }
   },
   {
     "name": "Minecraft server player tracker",
@@ -48,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 541,
-    "timeWeek": 539,
-    "timeMonth": 636,
-    "timeYear": 694,
+    "time": 695,
+    "timeDay": 655,
+    "timeWeek": 567,
+    "timeMonth": 640,
+    "timeYear": 695,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 844,
-    "timeDay": 1139,
-    "timeWeek": 848,
-    "timeMonth": 869,
-    "timeYear": 844,
+    "time": 846,
+    "timeDay": 1047,
+    "timeWeek": 861,
+    "timeMonth": 872,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2023-04-09": 16
     }
@@ -86,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 552,
-    "timeWeek": 538,
-    "timeMonth": 645,
-    "timeYear": 650,
+    "time": 653,
+    "timeDay": 692,
+    "timeWeek": 574,
+    "timeMonth": 651,
+    "timeYear": 653,
     "dailyMinutesDown": {}
   }
 ]
