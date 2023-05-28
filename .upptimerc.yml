@@ -12,6 +12,8 @@ sites:
     url: https://paste.charlie-cloud.hu
   - name: Web Panel
     url: $WEBHOST_PANEL
+  - name: Cloud Storage
+    url: $CLOUD_STORAGE
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie
 status-website:
