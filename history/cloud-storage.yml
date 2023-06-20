@@ -1,7 +1,7 @@
 url: $CLOUD_STORAGE
-status: down
-code: 521
-responseTime: 226
-lastUpdated: 2023-06-20T21:28:25.140Z
+status: up
+code: 200
+responseTime: 3635
+lastUpdated: 2023-06-20T21:37:26.753Z
 startTime: Sun May 28 2023 14:48:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
