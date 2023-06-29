@@ -4,19 +4,19 @@
     "url": "https://mmst-tracker.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 701,
-    "timeWeek": 691,
-    "timeMonth": 702,
-    "timeYear": 696,
+    "time": 694,
+    "timeDay": 652,
+    "timeWeek": 679,
+    "timeMonth": 698,
+    "timeYear": 694,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 6
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 846,
-    "timeDay": 509,
-    "timeWeek": 791,
-    "timeMonth": 827,
-    "timeYear": 846,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 851,
+    "timeDay": 805,
+    "timeWeek": 842,
+    "timeMonth": 842,
+    "timeYear": 851,
     "dailyMinutesDown": {
-      "2023-06-29": 0
+      "2023-06-29": 6
     }
   }
 ]
