@@ -6,18 +6,16 @@
     "slug": "minecraft-server-player-tracker",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 694,
-    "timeDay": 652,
+    "time": 693,
+    "timeDay": 544,
     "timeWeek": 679,
-    "timeMonth": 698,
-    "timeYear": 694,
-    "dailyMinutesDown": {
-      "2023-06-29": 6
-    }
+    "timeMonth": 689,
+    "timeYear": 693,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paste",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 856,
-    "timeDay": 1350,
-    "timeWeek": 949,
+    "time": 855,
+    "timeDay": 765,
+    "timeWeek": 965,
     "timeMonth": 871,
-    "timeYear": 856,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-04-09": 16
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 661,
-    "timeDay": 738,
-    "timeWeek": 665,
-    "timeMonth": 671,
-    "timeYear": 661,
+    "time": 659,
+    "timeDay": 553,
+    "timeWeek": 670,
+    "timeMonth": 667,
+    "timeYear": 659,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 851,
-    "timeDay": 805,
-    "timeWeek": 842,
-    "timeMonth": 842,
-    "timeYear": 851,
-    "dailyMinutesDown": {
-      "2023-06-29": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 850,
+    "timeDay": 767,
+    "timeWeek": 847,
+    "timeMonth": 836,
+    "timeYear": 850,
+    "dailyMinutesDown": {}
   }
 ]
