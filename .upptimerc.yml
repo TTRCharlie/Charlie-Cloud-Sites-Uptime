@@ -6,6 +6,8 @@ user-agent: TTRCharlie-site-status
 sites:
   - name: Minecraft server player tracker 
     url: https://mmst-tracker.charlie-cloud.hu
+  - name: Git 
+    url: https://git.charlie-cloud.hu
   - name: Paste
     url: https://paste.charlie-cloud.hu
   - name: Web Panel
