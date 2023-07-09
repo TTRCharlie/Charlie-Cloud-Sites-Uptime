@@ -4,10 +4,10 @@
     "url": "https://mmst-tracker.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 691,
@@ -15,7 +15,9 @@
     "timeWeek": 688,
     "timeMonth": 683,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-09": 2
+    }
   },
   {
     "name": "Paste",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.95%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.95%",
     "time": 858,
     "timeDay": 944,
     "timeWeek": 830,
     "timeMonth": 893,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2023-07-09": 0,
+      "2023-07-09": 58,
       "2023-04-09": 16
     }
   },
@@ -61,17 +63,19 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 838,
-    "timeDay": 907,
-    "timeWeek": 698,
-    "timeMonth": 832,
-    "timeYear": 838,
-    "dailyMinutesDown": {}
+    "time": 833,
+    "timeDay": 555,
+    "timeWeek": 636,
+    "timeMonth": 816,
+    "timeYear": 833,
+    "dailyMinutesDown": {
+      "2023-07-09": 0
+    }
   }
 ]
