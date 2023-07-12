@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 709,
-    "timeWeek": 716,
-    "timeMonth": 682,
-    "timeYear": 692,
+    "time": 691,
+    "timeDay": 557,
+    "timeWeek": 702,
+    "timeMonth": 675,
+    "timeYear": 691,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 840,
-    "timeDay": 783,
-    "timeWeek": 840,
-    "timeMonth": 840,
-    "timeYear": 840,
-    "dailyMinutesDown": {
-      "2023-07-11": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 788,
+    "timeDay": 755,
+    "timeWeek": 788,
+    "timeMonth": 788,
+    "timeYear": 788,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paste",
@@ -48,11 +46,11 @@
     "uptimeWeek": "97.72%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.83%",
-    "time": 857,
-    "timeDay": 712,
-    "timeWeek": 846,
-    "timeMonth": 889,
-    "timeYear": 857,
+    "time": 855,
+    "timeDay": 612,
+    "timeWeek": 810,
+    "timeMonth": 875,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2023-07-09": 229,
       "2023-04-09": 16
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 655,
-    "timeDay": 605,
-    "timeWeek": 655,
-    "timeMonth": 656,
-    "timeYear": 655,
+    "time": 654,
+    "timeDay": 520,
+    "timeWeek": 636,
+    "timeMonth": 651,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 1094,
-    "timeWeek": 1004,
-    "timeMonth": 890,
-    "timeYear": 855,
+    "time": 853,
+    "timeDay": 630,
+    "timeWeek": 987,
+    "timeMonth": 885,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   }
 ]
