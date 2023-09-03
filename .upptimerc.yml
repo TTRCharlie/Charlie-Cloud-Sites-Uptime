@@ -1,31 +1,47 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: TTRCharlie # Your GitHub organization or username, where this repository lives
+repo: Charlie-Cloud-Sites-Uptime # The name of this repository
+user-agent: TTRCharlie-site-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Minecraft server player tracker 
+    url: https://mmst-tracker.charlie-cloud.hu
+  - name: Git 
+    url: https://git.charlie-cloud.hu
+  - name: Paste
+    url: https://paste.charlie-cloud.hu
+  - name: Web Panel
+    url: $WEBHOST_PANEL
+  - name: Cloud Storage
+    url: $CLOUD_STORAGE
+assignees: # Users to assign downtime issues (optional)
+  - TTRCharlie
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.charlie-cloud.hu
+  favicon: https://asset.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
+  faviconSvg: https://asset.charlie-cloud.hu/favicon.svg
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://asset.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
+  name: Charlie Cloud Sites Uptime
+  introTitle: "Charlie Cloud Sites Uptime"
+  introMessage: "This is the Charlie Cloud Sites Uptime status page"
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Source
+      href: https://github.com/TTRCharlie/Charlie-Cloud-Status.git
+    - title: Server uptime
+      href: https://uptime.charlie-cloud.hu
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+  theme: night
+
+status-page:
+  robotsText: "User-agent: * \n Disallow: /"
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
