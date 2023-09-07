@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 731,
-    "timeDay": 820,
-    "timeWeek": 731,
-    "timeMonth": 731,
-    "timeYear": 731,
-    "dailyMinutesDown": {
-      "2023-09-06": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 709,
+    "timeDay": 729,
+    "timeWeek": 709,
+    "timeMonth": 709,
+    "timeYear": 709,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Git",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 1063,
-    "timeDay": 1188,
-    "timeWeek": 1063,
-    "timeMonth": 1063,
-    "timeYear": 1063,
-    "dailyMinutesDown": {
-      "2023-09-06": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 996,
+    "timeDay": 1021,
+    "timeWeek": 996,
+    "timeMonth": 996,
+    "timeYear": 996,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Paste",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 4459,
-    "timeDay": 9182,
-    "timeWeek": 4459,
-    "timeMonth": 4459,
-    "timeYear": 4459,
-    "dailyMinutesDown": {
-      "2023-09-06": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3973,
+    "timeDay": 9078,
+    "timeWeek": 3973,
+    "timeMonth": 3973,
+    "timeYear": 3973,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Panel",
@@ -65,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web-panel",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 651,
-    "timeDay": 657,
-    "timeWeek": 651,
-    "timeMonth": 651,
-    "timeYear": 651,
-    "dailyMinutesDown": {
-      "2023-09-06": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 701,
+    "timeDay": 764,
+    "timeWeek": 701,
+    "timeMonth": 701,
+    "timeYear": 701,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud Storage",
@@ -90,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 843,
-    "timeWeek": 746,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "time": 819,
+    "timeDay": 1182,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   }
 ]
