@@ -1,7 +1,7 @@
 url: https://git.charlie-cloud.hu
-status: up
-code: 200
-responseTime: 1070
-lastUpdated: 2023-09-07T23:01:52.669Z
+status: down
+code: 502
+responseTime: 1180
+lastUpdated: 2023-09-08T16:24:00.646Z
 startTime: 2023-09-03T11:17:49.082Z
 generator: Upptime <https://github.com/upptime/upptime>
