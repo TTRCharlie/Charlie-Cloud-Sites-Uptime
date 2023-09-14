@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 670,
-    "timeWeek": 911,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1109,
+    "timeDay": 1822,
+    "timeWeek": 1181,
+    "timeMonth": 1109,
+    "timeYear": 1109,
     "dailyMinutesDown": {
-      "2023-09-14": 0
+      "2023-09-14": 4
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2575,
-    "timeDay": 588,
-    "timeWeek": 979,
-    "timeMonth": 2575,
-    "timeYear": 2575,
+    "uptime": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2394,
+    "timeDay": 886,
+    "timeWeek": 991,
+    "timeMonth": 2394,
+    "timeYear": 2394,
     "dailyMinutesDown": {
-      "2023-09-14": 0
+      "2023-09-14": 4
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 575,
-    "timeWeek": 1015,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1114,
+    "timeDay": 1678,
+    "timeWeek": 1275,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
-      "2023-09-14": 0
+      "2023-09-14": 4
     }
   }
 ]
