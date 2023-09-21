@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1730,
     "timeDay": 8625,
     "timeWeek": 3322,
     "timeMonth": 1730,
     "timeYear": 1730,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 5
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 584,
-    "timeWeek": 1058,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1006,
+    "timeDay": 725,
+    "timeWeek": 1076,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 5
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://paste.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1898,
-    "timeDay": 404,
-    "timeWeek": 883,
-    "timeMonth": 1898,
-    "timeYear": 1898,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1874,
+    "timeDay": 694,
+    "timeWeek": 918,
+    "timeMonth": 1874,
+    "timeYear": 1874,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 5
     }
   },
   {
