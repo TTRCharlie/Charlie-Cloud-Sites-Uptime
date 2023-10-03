@@ -20,10 +20,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.charlie-cloud.hu
-  favicon: https://asset.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
-  faviconSvg: https://asset.charlie-cloud.hu/favicon.svg
+  favicon: https://assets.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
+  faviconSvg: https://assets.charlie-cloud.hu/favicon.svg
   # baseUrl: /your-repo-name
-  logoUrl: https://asset.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
+  logoUrl: https://assets.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
   name: Charlie Cloud Sites Uptime
   introTitle: "Charlie Cloud Sites Uptime"
   introMessage: "This is the Charlie Cloud Sites Uptime status page"
