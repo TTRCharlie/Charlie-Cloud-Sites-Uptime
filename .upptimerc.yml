@@ -29,7 +29,7 @@ status-website:
   introMessage: "This is the Charlie Cloud Sites Uptime status page"
   navbar:
     - title: Source
-      href: https://github.com/TTRCharlie/Charlie-Cloud-Status.git
+      href: https://github.com/TTRCharlie/Charlie-Cloud-Sites-Uptime.git
     - title: Server uptime
       href: https://uptime.charlie-cloud.hu
   metaTags:
