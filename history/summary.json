@@ -22,10 +22,10 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
@@ -33,7 +33,9 @@
     "timeWeek": 797,
     "timeMonth": 918,
     "timeYear": 937,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-10": 2
+    }
   },
   {
     "name": "Paste",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 1385,
     "timeDay": 703,
     "timeWeek": 696,
     "timeMonth": 878,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2023-10-10": 0
+      "2023-10-10": 22
     }
   },
   {
@@ -78,9 +80,9 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.87%",
@@ -90,6 +92,7 @@
     "timeMonth": 864,
     "timeYear": 906,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-09-26": 69
     }
   }
