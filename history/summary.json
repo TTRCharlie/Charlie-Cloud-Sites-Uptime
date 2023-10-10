@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1236,
     "timeDay": 591,
-    "timeWeek": 714,
+    "timeWeek": 697,
     "timeMonth": 1380,
     "timeYear": 1236,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 937,
     "timeDay": 825,
-    "timeWeek": 835,
+    "timeWeek": 797,
     "timeMonth": 918,
     "timeYear": 937,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://paste.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1396,
-    "timeDay": 566,
-    "timeWeek": 729,
-    "timeMonth": 879,
-    "timeYear": 1396,
-    "dailyMinutesDown": {}
+    "time": 1385,
+    "timeDay": 703,
+    "timeWeek": 696,
+    "timeMonth": 878,
+    "timeYear": 1385,
+    "dailyMinutesDown": {
+      "2023-10-10": 0
+    }
   },
   {
     "name": "Web Panel",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 667,
     "timeDay": 565,
-    "timeWeek": 598,
+    "timeWeek": 588,
     "timeMonth": 657,
     "timeYear": 667,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "99.87%",
     "time": 906,
     "timeDay": 706,
-    "timeWeek": 736,
+    "timeWeek": 712,
     "timeMonth": 864,
     "timeYear": 906,
     "dailyMinutesDown": {
