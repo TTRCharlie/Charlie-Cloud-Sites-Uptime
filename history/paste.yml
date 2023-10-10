@@ -1,7 +1,7 @@
 url: https://paste.charlie-cloud.hu
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2023-10-09T23:01:36.768Z
+status: down
+code: 502
+responseTime: 839
+lastUpdated: 2023-10-10T14:07:28.533Z
 startTime: 2023-09-03T11:17:50.356Z
 generator: Upptime <https://github.com/upptime/upptime>
