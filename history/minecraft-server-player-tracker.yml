@@ -1,7 +1,7 @@
 url: https://mmst-tracker.charlie-cloud.hu
-status: up
-code: 200
-responseTime: 561
-lastUpdated: 2023-10-10T23:01:32.212Z
+status: down
+code: 502
+responseTime: 567
+lastUpdated: 2023-10-11T10:44:28.710Z
 startTime: 2023-09-03T11:17:48.156Z
 generator: Upptime <https://github.com/upptime/upptime>
