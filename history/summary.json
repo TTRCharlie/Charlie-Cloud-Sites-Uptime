@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1114,
-    "timeDay": 587,
+    "time": 1106,
+    "timeDay": 585,
     "timeWeek": 667,
-    "timeMonth": 1323,
-    "timeYear": 1114,
+    "timeMonth": 728,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2023-10-10": 17
     }
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
-    "uptimeYear": "99.92%",
+    "uptimeYear": "99.93%",
     "time": 921,
-    "timeDay": 887,
-    "timeWeek": 842,
-    "timeMonth": 839,
+    "timeDay": 961,
+    "timeWeek": 848,
+    "timeMonth": 855,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2023-10-11": 35,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
-    "time": 1244,
-    "timeDay": 590,
-    "timeWeek": 674,
-    "timeMonth": 782,
-    "timeYear": 1244,
+    "time": 1237,
+    "timeDay": 765,
+    "timeWeek": 705,
+    "timeMonth": 787,
+    "timeYear": 1237,
     "dailyMinutesDown": {
       "2023-10-10": 52
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 575,
-    "timeWeek": 777,
-    "timeMonth": 665,
-    "timeYear": 677,
+    "time": 675,
+    "timeDay": 574,
+    "timeWeek": 790,
+    "timeMonth": 669,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.90%",
-    "time": 950,
-    "timeDay": 702,
-    "timeWeek": 821,
-    "timeMonth": 912,
-    "timeYear": 950,
+    "time": 946,
+    "timeDay": 706,
+    "timeWeek": 783,
+    "timeMonth": 914,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2023-09-26": 69
     }
