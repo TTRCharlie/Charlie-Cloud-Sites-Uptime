@@ -4,18 +4,19 @@
     "url": "https://mmst-tracker.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/mmst-tracker.charlie-cloud.hu.ico",
     "slug": "minecraft-server-player-tracker",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 1086,
     "timeDay": 591,
     "timeWeek": 666,
     "timeMonth": 710,
     "timeYear": 1086,
     "dailyMinutesDown": {
+      "2023-10-24": 3,
       "2023-10-10": 17
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
     "time": 923,
@@ -36,6 +37,7 @@
     "timeMonth": 861,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2023-10-24": 2,
       "2023-10-11": 35,
       "2023-10-10": 16
     }
@@ -45,9 +47,9 @@
     "url": "https://paste.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/paste.charlie-cloud.hu.ico",
     "slug": "paste",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.93%",
@@ -57,6 +59,7 @@
     "timeMonth": 775,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-10-10": 52
     }
   },
@@ -83,18 +86,19 @@
     "url": "$CLOUD_STORAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
-    "time": 937,
-    "timeDay": 620,
-    "timeWeek": 757,
-    "timeMonth": 911,
-    "timeYear": 937,
+    "time": 931,
+    "timeDay": 573,
+    "timeWeek": 728,
+    "timeMonth": 901,
+    "timeYear": 931,
     "dailyMinutesDown": {
+      "2023-10-24": 0,
       "2023-09-26": 69
     }
   }
