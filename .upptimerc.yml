@@ -14,6 +14,8 @@ sites:
     url: $WEBHOST_PANEL
   - name: Cloud Storage
     url: $CLOUD_STORAGE
+  - name: Another Uptime monitoring 
+    url: $UPTIME
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie
 status-website:
