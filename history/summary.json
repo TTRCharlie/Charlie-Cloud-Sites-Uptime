@@ -87,18 +87,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud-storage",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.92%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.92%",
     "time": 998,
     "timeDay": 612,
     "timeWeek": 762,
     "timeMonth": 1046,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2023-11-14": 0,
+      "2023-11-14": 14,
       "2023-09-26": 69
     }
   },
@@ -107,17 +107,19 @@
     "url": "$UPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "another-uptime-monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 693,
-    "timeWeek": 915,
-    "timeMonth": 878,
-    "timeYear": 878,
-    "dailyMinutesDown": {}
+    "time": 1958,
+    "timeDay": 8350,
+    "timeWeek": 2801,
+    "timeMonth": 1958,
+    "timeYear": 1958,
+    "dailyMinutesDown": {
+      "2023-11-14": 0
+    }
   }
 ]
