@@ -24,18 +24,19 @@
     "url": "https://git.charlie-cloud.hu",
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.92%",
     "time": 918,
     "timeDay": 563,
     "timeWeek": 881,
     "timeMonth": 903,
     "timeYear": 918,
     "dailyMinutesDown": {
+      "2023-11-16": 2,
       "2023-10-24": 28,
       "2023-10-11": 35,
       "2023-10-10": 16
@@ -107,9 +108,9 @@
     "url": "$UPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "another-uptime-monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -118,6 +119,8 @@
     "timeWeek": 2512,
     "timeMonth": 1744,
     "timeYear": 1744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-16": 0
+    }
   }
 ]
