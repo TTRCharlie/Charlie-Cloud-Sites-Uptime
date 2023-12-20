@@ -112,9 +112,9 @@
     "url": "$UPTIME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "another-uptime-monitoring",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.85%",
@@ -124,6 +124,7 @@
     "timeMonth": 795,
     "timeYear": 1064,
     "dailyMinutesDown": {
+      "2023-12-20": 0,
       "2023-11-29": 31,
       "2023-11-20": 69
     }
