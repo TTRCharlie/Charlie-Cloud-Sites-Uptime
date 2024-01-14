@@ -25,19 +25,19 @@
     "url": "https://storage.charlie-cloud.hu/minio/ui",
     "icon": "https://icons.duckduckgo.com/ip3/storage.charlie-cloud.hu.ico",
     "slug": "object-storage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 1091,
-    "timeWeek": 934,
-    "timeMonth": 903,
-    "timeYear": 903,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 891,
+    "timeDay": 976,
+    "timeWeek": 913,
+    "timeMonth": 891,
+    "timeYear": 891,
     "dailyMinutesDown": {
-      "2024-01-14": 0
+      "2024-01-14": 35
     }
   },
   {
