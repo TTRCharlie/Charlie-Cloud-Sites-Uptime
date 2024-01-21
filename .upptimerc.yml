@@ -28,12 +28,12 @@ status-website:
   faviconSvg: https://cdn.charlie-cloud.hu/favicon.svg
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.charlie-cloud.hu/73458877_567488514057458_2491980556745572352_n.jpg
-  name: Charlie Cloud Sites Uptime
-  introTitle: "Charlie Cloud Sites Uptime"
-  introMessage: "This is the Charlie Cloud Sites Uptime status page"
+  name: Charlie Cloud Services Uptime Status
+  introTitle: Charlie Cloud Services Uptime Status"
+  introMessage: "This is the Charlie Cloud Services Uptime Status page"
   navbar:
     - title: Source
-      href: https://github.com/TTRCharlie/Charlie-Cloud-Sites-Uptime.git
+      href: https://github.com/$OWNER/$REPO
     - title: Server uptime
       href: https://uptime.charlie-cloud.hu
   metaTags:
