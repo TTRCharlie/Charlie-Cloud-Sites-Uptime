@@ -8,6 +8,8 @@ sites:
     url: https://mmst-tracker.charlie-cloud.hu
   - name: Git 
     url: https://git.charlie-cloud.hu
+  - name: Object Storage
+    url: https://storage.charlie-cloud.hu/minio/ui
   - name: Paste
     url: https://paste.charlie-cloud.hu
   - name: Web Panel
