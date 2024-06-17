@@ -1,7 +1,7 @@
 url: https://storage.charlie-cloud.hu/minio/ui
-status: down
-code: 521
-responseTime: 256
-lastUpdated: 2024-06-17T09:54:50.355Z
+status: up
+code: 200
+responseTime: 1011
+lastUpdated: 2024-06-17T10:11:24.729Z
 startTime: 2024-03-09T11:47:25.266Z
 generator: Upptime <https://github.com/upptime/upptime>
