@@ -4,8 +4,6 @@ repo: Charlie-Cloud-Sites-Uptime # The name of this repository
 user-agent: TTRCharlie-site-status
 
 sites:
-  - name: Minecraft server player tracker 
-    url: https://tracker.charlie-cloud.hu
   - name: Git 
     url: https://git.charlie-cloud.hu
   - name: Object Storage
