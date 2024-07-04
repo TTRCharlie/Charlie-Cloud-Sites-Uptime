@@ -1,7 +1,7 @@
-url: https://storage.charlie-cloud.hu/minio/ui
+url: $OBJECT_STORAGE
 status: up
 code: 200
-responseTime: 732
-lastUpdated: 2024-07-03T23:01:32.265Z
+responseTime: 969
+lastUpdated: 2024-07-04T17:35:09.310Z
 startTime: 2024-03-09T11:47:25.266Z
 generator: Upptime <https://github.com/upptime/upptime>
