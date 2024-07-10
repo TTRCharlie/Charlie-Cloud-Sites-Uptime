@@ -1,7 +1,7 @@
 url: $OBJECT_STORAGE
-status: down
-code: 523
-responseTime: 8458
-lastUpdated: 2024-07-10T15:20:23.235Z
+status: up
+code: 200
+responseTime: 945
+lastUpdated: 2024-07-10T15:27:28.145Z
 startTime: 2024-03-09T11:47:25.266Z
 generator: Upptime <https://github.com/upptime/upptime>
