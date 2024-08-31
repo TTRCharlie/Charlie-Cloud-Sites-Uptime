@@ -10,8 +10,6 @@ sites:
     url: $OBJECT_STORAGE
   - name: Paste
     url: https://paste.charlie-cloud.hu
-  - name: Web Panel
-    url: $WEBHOST_PANEL
   - name: Cloud Storage
     url: $CLOUD_STORAGE
   - name: Another Uptime monitoring 
