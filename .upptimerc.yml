@@ -30,8 +30,6 @@ status-website:
   navbar:
     - title: Source
       href: https://github.com/$OWNER/$REPO
-    - title: Server uptime
-      href: https://uptime.charlie-cloud.hu
   metaTags:
     - name: "robots"
       content: "noindex"
