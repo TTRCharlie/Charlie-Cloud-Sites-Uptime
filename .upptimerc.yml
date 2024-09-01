@@ -6,8 +6,6 @@ user-agent: TTRCharlie-site-status
 sites:
   - name: Git 
     url: https://git.charlie-cloud.hu
-  - name: Object Storage
-    url: $OBJECT_STORAGE
   - name: Paste
     url: https://paste.charlie-cloud.hu
   - name: Cloud Storage
