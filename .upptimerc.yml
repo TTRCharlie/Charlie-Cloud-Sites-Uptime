@@ -6,6 +6,8 @@ user-agent: TTRCharlie-site-status
 sites:
   - name: Git 
     url: https://git.charlie-cloud.hu
+  - name: Minecraft server tracker
+    url: https://tracker.charlie-cloud.hu
   - name: Paste
     url: https://paste.charlie-cloud.hu
   - name: Cloud Storage
